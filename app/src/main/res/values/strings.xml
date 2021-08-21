@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TryStorageSensor</string>
-    <string name="rotate_left">Rotate left: </string>
-    <string name="rotate_right">Rotate right: </string>
-    <string name="instruction">Instruction: Rotate the phone left or right.</string>
-    <string name="bt_clear">Clear</string>
+    <string name="last_value">Last values: </string>
+    <string name="current_value">Current values: </string>
+    <string name="instruction">Instruction: Rotate the phone to change values.</string>
+    <string name="bt_save">Save current values</string>
 </resources>
